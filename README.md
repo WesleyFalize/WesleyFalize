@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WesleyFalize
 - 👀 I’m interested in Microsoft 365
 - 🌱 I’m currently learning PowerShell
-- 💞️ I’m looking to collaborate on Beginner and intermediate level PowerShell challanges
+- 💞️ I’m looking to collaborate on Beginner and intermediate level PowerShell challenges
 - 📫 Reach me @  [LinkedIn](https://www.linkedin.com/in/wesleyfalize/)
 
 <!---
